@@ -1,4 +1,4 @@
-"""Command-line entry point for the production Lake Iseo forecast chain."""
+"""Command-line entry point for the forecast chain."""
 
 from __future__ import annotations
 
