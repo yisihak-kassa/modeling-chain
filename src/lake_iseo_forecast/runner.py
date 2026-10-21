@@ -1,4 +1,4 @@
-"""Bounded, isolated AEM3D segment execution."""
+"""AEM3D forecast segment execution."""
 
 from __future__ import annotations
 
