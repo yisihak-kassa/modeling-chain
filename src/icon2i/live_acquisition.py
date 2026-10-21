@@ -1,9 +1,6 @@
-"""Cycle-safe MeteoHub acquisition for one Lake Iseo forecast issue.
+"""MeteoHub acquisition for one Lake Iseo forecast issue.
 
-The production contract is deliberately narrow: request the seven GRIB inputs
-used by AEM3D for one exact 00Z/12Z reference time, stage every response under
-one attempt directory, validate the complete batch, and atomically publish it.
-No AEM3D process is started here.
+Request the seven GRIB inputs used by AEM3D for one 00Z/12Z reference time.
 """
 
 from __future__ import annotations
