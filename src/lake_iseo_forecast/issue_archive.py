@@ -1,4 +1,4 @@
-"""Immutable per-issue forecast products and their lightweight catalog."""
+"""Immutable per-issue forecast products and their catalog."""
 
 from __future__ import annotations
 
