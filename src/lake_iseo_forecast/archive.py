@@ -1,4 +1,4 @@
-"""Archive completed AEM3D forecast issues without losing issue identity."""
+"""Archive completed AEM3D forecast issues."""
 
 from __future__ import annotations
 
