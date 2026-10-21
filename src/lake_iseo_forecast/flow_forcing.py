@@ -1,4 +1,4 @@
-"""Focused AEM3D FLOW forcing generation for one forecast issue."""
+"""AEM3D flow input files generation for one forecast issue."""
 
 from __future__ import annotations
 
